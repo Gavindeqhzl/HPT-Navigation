@@ -1,4 +1,4 @@
-# Socially Compliant Multi-robot Crowds Navigation via Hierarchical Preference Learning
+# Bridging the Granularity Gap: Hierarchical Preference Transformers for Multi-Robot Crowd Navigation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
