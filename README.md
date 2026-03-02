@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official implementation of the IROS 2026 paper: **"Socially Compliant Multi-robot Crowds Navigation via Hierarchical Preference Learning"**.
+Official implementation of the IROS 2026 paper: **"Bridging the Granularity Gap: Hierarchical Preference Transformers for Multi-Robot Crowd Navigation"**.
 
 ## 🎥 Dynamic Simulation Demonstration
 
